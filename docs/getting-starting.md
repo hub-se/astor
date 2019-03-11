@@ -6,7 +6,7 @@ We present a command line with the required arguments for executing jGenProg.  O
 
 Getting started: 
 
-     git clone https://github.com/SpoonLabs/astor.git
+     git clone https://github.com/hub-se/astor.git
      cd astor
      mvn clean compile # compiling  astor
      cd examples/Math-issue-280
