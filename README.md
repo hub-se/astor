@@ -86,8 +86,8 @@ Cardumen is a repair approach based on mined templates. The experiments about Ca
 Usage
 ------
 
-* [Getting Started](https://github.com/SpoonLabs/astor/blob/master/docs/getting-starting.md)
-* [How to extend Astor?](https://github.com/SpoonLabs/astor/blob/master/docs/extension_points.md)
+* [Getting Started](docs/getting-starting.md)
+* [How to extend Astor?](docs/extension_points.md)
 
 Usage of Astor in education
 -------------------------------
